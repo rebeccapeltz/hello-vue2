@@ -34,6 +34,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm install -g @vue/cli
 vue --version
 # @vue/cli 4.5.13
+vue create hello-vue2
+cd hello-vue2
 vue add cloudinary
 ```
 
